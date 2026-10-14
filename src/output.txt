@@ -1,0 +1,66 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3\lib\idea_rt.jar=50323" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\khali\IdeaProjects\Lab3\out\production\Lab3 Main
+
+Menu:
+1. Enter Student Details
+2. Enter Marks
+3. Display Marks Info.
+4. Display Student Details
+5. Exit
+Enter your choice: 1
+Enter Student Name: khalid
+Enter ID Number: 445801929
+How many courses last semester? 5
+
+Menu:
+1. Enter Student Details
+2. Enter Marks
+3. Display Marks Info.
+4. Display Student Details
+5. Exit
+Enter your choice: 2
+Enter Marks for 5 subjects:
+90
+80
+70
+100
+95
+
+Course	Mark	P/F
+1	90	Pass
+2	80	Pass
+3	70	Pass
+4	100	Pass
+5	95	Pass
+Avg: 87.0
+Max: 100
+Min: 70
+
+Menu:
+1. Enter Student Details
+2. Enter Marks
+3. Display Marks Info.
+4. Display Student Details
+5. Exit
+Enter your choice: 4
+Name: Khalid
+KKU ID: 445801929
+
+Course	Mark	P/F
+1	90	Pass
+2	80	Pass
+3	70	Pass
+4	100	Pass
+5	95	Pass
+Avg: 87.0
+Max: 100
+Min: 70
+
+Menu:
+1. Enter Student Details
+2. Enter Marks
+3. Display Marks Info.
+4. Display Student Details
+5. Exit
+Enter your choice: 5
+
+Process finished with exit code 0
